@@ -27,7 +27,7 @@
 </div>
 <div style="display: inline-block; width: 100px;"
 <p> Uma profissional comprometida e apaixonada pelo mundo da tecnologia. Tenho formação técnica em Desenvolvimento de Sistemas e atualmente estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas pelo IFBA (Instituto Federal da Bahia). 🧠 <br> 
-<br>Aqui no GitHub, compartilho meus projetos com a missão de criar impacto e demonstrar minha paixão pela programação. Encaro cada desafio como uma oportunidade de aprimorar minhas habilidades e conhecimentos.
+<br>Aqui no GitHub, compartilho meus projetos com a missão de criar impacto e demonstrar minha paixão<br> pela programação. Encaro cada desafio como uma oportunidade de aprimorar minhas habilidades e conhecimentos.
 </p>
 </div>
 <br><br><br>
