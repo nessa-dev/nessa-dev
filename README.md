@@ -1,6 +1,4 @@
 
-
-
 ## Oii, genteee! Eu sou a Vanessa Santos 🙋🏾‍♀️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-santos-22475a302/)
@@ -8,11 +6,10 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CqU9433C)
 
 
-
 <div align="center">
-  <a href="https://github.com/duribeiro">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
+  <a href="https://github.com/nessa-dev">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nessa-dev&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nessa-dev&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
