@@ -26,15 +26,14 @@
 <img align="right" margin-right: 20px ;height="180" width="180" alt= "GIF" src= "https://i.postimg.cc/52WggwsM/download-1.gif">
 </div>
 <div style="display: inline-block; width: 100px;"
-<p> Uma profissional comprometida e apaixonada pelo mundo da tecnologia. Tenho formação técnica em Desenvolvimento de Sistemas e atualmente estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas pelo IFBA (Instituto Federal da Bahia). 🧠 <br> 
-<br>Aqui no GitHub, compartilho meus projetos com a missão de criar impacto e demonstrar minha paixão<br> pela programação. Encaro cada desafio como uma oportunidade de aprimorar minhas habilidades e conhecimentos.
+<p> Uma profissional comprometida e apaixonada pelo mundo da tecnologia. Tenho formação técnica em Desenvolvimento de Sistemas e atualmente estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas pelo IFBA (Instituto Federal da Bahia). 🧠 <br><br>
+Aqui no GitHub, compartilho meus projetos com a missão de criar impacto e demonstrar minha paixão<br> pela programação. Encaro cada desafio como uma oportunidade de aprimorar minhas habilidades e conhecimentos.
 </p>
 </div>
-<<br>
-<div align="center">
+<br>
   <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nessa-dev/nessa-dev/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nessa-dev/nessa-dev/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nessa-dev/nessa-dev/output/github-contribution-grid-snake.svg">
 </picture>
-</div>
+
