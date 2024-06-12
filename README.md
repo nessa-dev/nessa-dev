@@ -30,12 +30,8 @@
 <br>Aqui no GitHub, compartilho meus projetos com a missão de criar impacto e demonstrar minha paixão<br> pela programação. Encaro cada desafio como uma oportunidade de aprimorar minhas habilidades e conhecimentos.
 </p>
 </div>
-<br><br><br>
-
-
+<<br>
 <div align="center">
-
-  
   <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nessa-dev/nessa-dev/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nessa-dev/nessa-dev/output/github-contribution-grid-snake-dark.svg">
