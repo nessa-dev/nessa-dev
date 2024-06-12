@@ -36,6 +36,5 @@
 <div align="center">
 
   ![snake gif](https://github.com/nessa-dev/nessa-dev/blob/output/github-contribution-grid-snake.gif)
-
   
 </div>
