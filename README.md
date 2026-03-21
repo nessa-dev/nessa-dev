@@ -12,23 +12,19 @@
   
 <!-- INTRO -->
 
-<img
-  align="right"
-  width="300"
-  src="https://github.com/user-attachments/assets/26d4f4c1-60ee-4436-8ed9-c7cef38474f9"
-  alt="Avatar Vanessa"
-/>
-
-Hi there! I'm <b>Vanessa</b>. ✨  
-
-I’m a <b>Back-end developer</b> passionate about technology and creating efficient solutions. 🧠  
-
-I have a technical degree in Systems Development and I’m currently pursuing a Bachelor's in Systems Analysis and Development at <b>IFBA</b>. 🚀  
-
-On GitHub, I share my projects with the goal of learning, growing, and making an impact through quality code.
-
-</div>
-<br>
+<table border="0">
+  <tr>
+    <td>
+      <h1>Hi there! I'm Vanessa. ✨</h1>
+      <p>I’m a <b>Back-end developer</b> passionate about technology and creating efficient solutions. 🧠</p>
+      <p>I have a technical degree in Systems Development and I’m currently pursuing a Bachelor's in Systems Analysis and Development at <b>IFBA</b>. 🚀</p>
+      <p>On GitHub, I share my projects with the goal of learning, growing, and making an impact through quality code.</p>
+    </td>
+    <td align="center" width="350">
+      <img src="https://github.com/user-attachments/assets/26d4f4c1-60ee-4436-8ed9-c7cef38474f9" alt="Avatar Vanessa" width="250">
+    </td>
+  </tr>
+</table>
 
 
 
