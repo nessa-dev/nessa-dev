@@ -83,7 +83,8 @@ On GitHub, I share my projects with the goal of learning, growing, and making an
 
 <div align="center">
   <a href="https://github.com/nessa-dev">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nessa-dev&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <!-- Stats Card -->
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nessa-dev&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nessa-dev&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
