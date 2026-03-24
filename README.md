@@ -39,41 +39,11 @@
 
 ---
 
-<div align="center">
-<h2>⚙️ Tech Stack & Tools</h2>
- <div align="center">
-  <!-- Linguagens -->
-  <p>
-    <img src="https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=java&logoColor=a4004a" alt="Java" />
-    <img src="https://img.shields.io/badge/C%23-0f172a?style=for-the-badge&logo=c-sharp&logoColor=a4004a" alt="C#" />
-    <img src="https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=c&logoColor=a4004a" alt="C" />
-    <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=a4004a" alt="JavaScript" />
-  </p>
+### ⚙️ Skills & Tools
 
-  <!-- Back-end & Frameworks -->
-  <p>
-    <img src="https://img.shields.io/badge/ASP.NET-0f172a?style=for-the-badge&logo=dotnet&logoColor=a4004a" alt="ASP.NET" />
-    <img src="https://img.shields.io/badge/Entity%20Framework-0f172a?style=for-the-badge&logo=dotnet&logoColor=a4004a" alt="Entity Framework" />
-    <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=a4004a" alt="React" />
-    <img src="https://img.shields.io/badge/Swagger-0f172a?style=for-the-badge&logo=swagger&logoColor=a4004a" alt="Swagger" />
-  </p>
-
-  <!-- Banco de Dados & Mensageria -->
-  <p>
-    <img src="https://img.shields.io/badge/SQL%20Server-0f172a?style=for-the-badge&logo=microsoft-sql-server&logoColor=a4004a" alt="SQL Server" />
-    <img src="https://img.shields.io/badge/SQLite-0f172a?style=for-the-badge&logo=sqlite&logoColor=a4004a" alt="SQLite" />
-    <img src="https://img.shields.io/badge/Kafka-0f172a?style=for-the-badge&logo=apache-kafka&logoColor=a4004a" alt="Kafka" />
-  </p>
-
-  <!-- Infra & Tools -->
-  <p>
-    <img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=a4004a" alt="Docker" />
-    <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=a4004a" alt="Git" />
-    <img src="https://img.shields.io/badge/AWS-0f172a?style=for-the-badge&logo=amazon-aws&logoColor=a4004a" alt="AWS" />
-    <img src="https://img.shields.io/badge/Figma-0f172a?style=for-the-badge&logo=figma&logoColor=a4004a" alt="Figma" />
-  </p>
-</div>
-</div>
+| Backend | Database | Cloud & Tools | Frontend |
+| :--- | :--- | :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=cs,dotnet" height="40"/> <br/> C#, .NET, ASP.NET Core, Web API, Entity Framework, MVC, Clean Architecture | <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql" height="40"/> <br/> SQL Server, PostgreSQL, SQLite, SQL | <img src="https://skillicons.dev/icons?i=docker,aws,git" height="40"/> <br/> Docker, AWS, Kafka, Git | <img src="https://skillicons.dev/icons?i=react,js,html,css" height="40"/> <br/> React, JavaScript |
 
 ### 📊 My GitHub Stats
 
