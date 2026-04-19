@@ -1,4 +1,5 @@
-<img width="1536" height="464" alt="banner" src="https://github.com/user-attachments/assets/e9414f1c-5dbe-4472-b7f1-39896d2bd93e" />
+<img width="1536" height="464" alt="Design sem nome" src="https://github.com/user-attachments/assets/82b1b006-4919-404f-b896-16c2753e0016" />
+
 
 ## Hi there! I'm Vanessa ✨
 
