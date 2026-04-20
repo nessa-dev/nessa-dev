@@ -17,7 +17,7 @@
   <tr>
     <td>
       <h1>Hi there! I'm Vanessa. ✨</h1>
-      <p>I’m a <b>Back-end developer</b> passionate about technology and creating efficient solutions. 🧠</p>
+      <p>I’m a <b>Software Engineer</b> passionate about technology and creating efficient solutions. 🧠</p>
       <p>I have a technical degree in Systems Development and I’m currently pursuing a Bachelor's in Systems Analysis and Development at <b>IFBA</b>. 🚀</p>
       <p>On GitHub, I share my projects with the goal of learning, growing, and making an impact through quality code.</p>
     </td>
