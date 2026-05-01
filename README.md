@@ -1,7 +1,7 @@
 <img width="1536" height="464" alt="Design sem nome" src="https://github.com/user-attachments/assets/82b1b006-4919-404f-b896-16c2753e0016" />
 
 
-## Hi there! I'm Vanessa ✨
+## 
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-a4004a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-dev-santos)
